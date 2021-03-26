@@ -1,0 +1,6 @@
+theme: jekyll-theme-slate
+title: R Examples Introductory Statistics
+google_analytics: UA-92953468-4
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
